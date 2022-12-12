@@ -3,9 +3,8 @@ Lithicsoft Office Software  \
 Welcome To Los - Lithicsoft Office Software \
 This is Oopen Source Project
  
- Source:
+ Source: \
  /Excel - Source code for Los Excel
- /
  
 MIT License 
 
