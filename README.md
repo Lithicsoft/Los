@@ -5,6 +5,7 @@ This is Oopen Source Project
  
  Source: \
  /Excel - Source code for Los Excel
+ /Word - Source code for Los Word
  
 MIT License 
 
