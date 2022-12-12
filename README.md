@@ -1,6 +1,6 @@
 # Los - Lithicsoft Office Software
 Welcome To Los - Lithicsoft Office Software \
-This is Oopen Source Project
+This is Open Source Project
  
  Source: \
  /Excel - Source code for Los Excel \
