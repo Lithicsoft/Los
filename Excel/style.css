@@ -1,5 +1,11 @@
 /*style.css*/
 
+#title {
+    padding: 10px 0;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 10px;
+}
+
 .cell-row {
     display: flex;
 }
@@ -23,7 +29,8 @@
     border: 3px solid dodgerblue;
 }
 #export-btn {
-    background: green;
+    background: dodgerblue;
+    border-radius: 5px;;
     color: white;
     border: none;
     padding: 10px;
