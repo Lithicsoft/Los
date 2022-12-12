@@ -7,7 +7,7 @@ This is Oopen Source Project
  /Excel - Source code for Los Excel \
  /Word - Source code for Los Word
  
-MIT License 
+MIT License:
 ```
 Copyright (c) 2022 Lithicsoft Inc.
 
