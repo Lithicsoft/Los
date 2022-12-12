@@ -1,5 +1,4 @@
-# Los
-Lithicsoft Office Software  \
+# Los - Lithicsoft Office Software
 Welcome To Los - Lithicsoft Office Software \
 This is Oopen Source Project
  
