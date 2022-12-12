@@ -1,7 +1,7 @@
 # Los
 Lithicsoft Office Software  \
 Welcome To Los - Lithicsoft Office Software \
-This is Oopen Source Project \
+This is Oopen Source Project
  
 MIT License 
 
