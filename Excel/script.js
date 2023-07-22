@@ -172,6 +172,22 @@ function updateCell(property,value,defaultPossible) {
     console.log(cellData);
 }
 
+function openFile() {
+    console.info("open");
+}
+
+function saveFile() {
+    console.info("save");
+}
+
+$(".icon-open_in_browser").click(function() {
+    openFile();
+});
+
+$(".icon-save").click(function() {
+    saveFile();
+});
+
 $(".icon-bold").click(function() {
     if($(this).hasClass("selected")) {
         updateCell("font-weight","",true);
@@ -406,4 +422,3 @@ $(".icon-paste").click(function() {
     }
     loadSheet();
 })
-
