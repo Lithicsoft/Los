@@ -14,6 +14,8 @@ let cellData = {
     "Sheet1" : {}
 }
 
+let cellDataJson = "";
+
 let selectedSheet = "Sheet1";
 let totalSheets = 1;
 let lastlyAddedSheet = 1;
@@ -173,11 +175,13 @@ function updateCell(property,value,defaultPossible) {
 }
 
 function openFile() {
-    console.info("open");
+    cellData = JSON.parse(cellDataJson);
+    console.info(cellData);
 }
 
 function saveFile() {
-    console.info("save");
+    cellDataJson = JSON.stringify(cellData);
+    console.info(cellDataJson);
 }
 
 $(".icon-open_in_browser").click(function() {
