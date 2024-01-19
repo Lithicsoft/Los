@@ -1,4 +1,4 @@
-# Los - Lithicsoft Office Software
+# Los - Lithicsoft Office Software (This project was cancelled!)
 Welcome To Los - Lithicsoft Office Software \
 This is Open Source Project
  
